@@ -32,6 +32,7 @@ import UIKit
         }
     }
     
+    
     /// 当前选中的UILabel在labels的下标
     var selectedIndex:Int = 0 {
         didSet {
